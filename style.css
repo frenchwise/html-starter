@@ -1,0 +1,11 @@
+/* ----- CSS Vars ----- */
+:root {
+  --primary-color: #333;
+  --secondary-color: #ff9500;
+  --bg-color: #fff;
+}
+
+/* ----- Globals ----- */
+* { 
+  box-sizing: border-box;
+}
